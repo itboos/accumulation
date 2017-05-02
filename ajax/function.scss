@@ -1,0 +1,10 @@
+ $base-font-size: 37.5px !default;
+
+ @function strip-unit($num) {
+  @return $num / ($num * 0 + 1);
+ }
+ @function rem($value,$context:$base-font-size) {
+  $target: strip-unit($value); /* 去除单位 */
+  $base: strip-unit($context);
+  @return $target/$base + rem
+ }
