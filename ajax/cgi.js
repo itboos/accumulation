@@ -1,8 +1,8 @@
 import {ajax,jsonp} from './ajax.js';
 
 export default {
-	host: 'http://api.live.nagezan.net/cgi-bin/',
-	defaultHead:'http://static.live.nagezan.net/live/fb284641-a4a6-4a2f-b596-abfb49ba037c.png',
+	host: 'http://api.mainhost/cgi-bin/',
+	defaultHead:'http://mainhost/a.png',
 	get(url,params,callback){
 		ajax('get',params)
 			.then( (res)=>{
