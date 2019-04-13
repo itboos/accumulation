@@ -13,7 +13,7 @@
 - ❓ 有问题可以在issue下面留言，我们尽可能解答 ⚆_⚆
 - 📩 [Watch](https://github.com/itboos/accumulation/watchers) 即可自动订阅，新文章发布后第一时间推送到您的邮箱 ʕ•̫͡•ོʔ•̫͡•ཻʕ•̫͡•ʔ•͓͡•ʔ
 - 💖 开源需动力，[Star](https://github.com/itboos/accumulation) 是最好的赞美 ❛‿˂̵✧
-- 💖 鸣谢薄荷前端readme首页样式
+- 💖 鸣谢薄荷前端README首页样式
 
 ### 近期
 
