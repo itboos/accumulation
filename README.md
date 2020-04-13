@@ -13,10 +13,12 @@
 - ❓ 有问题可以在issue下面留言，我们尽可能解答 ⚆_⚆
 - 📩 [Watch](https://github.com/itboos/accumulation/watchers) 即可自动订阅，新文章发布后第一时间推送到您的邮箱 ʕ•̫͡•ོʔ•̫͡•ཻʕ•̫͡•ʔ•͓͡•ʔ
 - 💖 开源需动力，[Star](https://github.com/itboos/accumulation) 是最好的赞美 ❛‿˂̵✧
-- 💖 鸣谢薄荷前端readme首页样式
+- 💖 鸣谢薄荷前端README首页样式
 
-### 近期
-
+### 2019
+- [JS事件循环(event-loop)](https://github.com/itboos/accumulation/issues/29)
+- [微信小程序数据统计和错误统计的实现](https://github.com/itboos/accumulation/issues/28)
+### 2018
 - [ServiceWorker](https://github.com/itboos/accumulation/issues/3)
 - [JS中作用域和原型链](https://github.com/itboos/accumulation/issues/4)
 - [微信小程序相关](https://github.com/itboos/accumulation/issues/5)
